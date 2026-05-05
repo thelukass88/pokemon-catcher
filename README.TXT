@@ -1,12 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Pokémon Catcher
+PURPOSE OF PROJECT: Final Java project from the Codedex Java course for beginners
+VERSION or DATE: 1 - 05/05/26
+HOW TO START THIS PROJECT: Compile and run Main.java in BlueJ, or from the terminal: javac Main.java then java Main
+AUTHORS: Luke Holliday
+USER INSTRUCTIONS: When the program launches, enter the name of a Pokémon you want to catch. Click the "Throw Poke ball!" button repeatedly until you catch it. Once caught, you'll be prompted to try catching another Pokémon. Good luck!
